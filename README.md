@@ -1,5 +1,7 @@
 # Dependency Injection
 
+[Youtube Tutorial](https://www.youtube.com/watch?v=GATSXm7WAxU)
+
 - In any object-oriented language, **classes and objects are the foundations** of any functionality you can think of.
 - The **relationships** between these classes and objects, make it possible to **extend** and **reuse** some of these functionalities.
 - The **way** that we choose to build these functionalities (or dependencies), determine how **decoupled** and **reusable** our code will be.
